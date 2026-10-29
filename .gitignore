@@ -1,0 +1,19 @@
+# Lingkungan virtual Python (besar, bisa dibuat ulang)
+venv/
+
+# Data dan model (besar; data juga punya ketentuan lisensi sendiri)
+data/
+models/
+
+# File sementara Python dan Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File rahasia (kunci/token), jangan pernah diunggah
+.env
+*.key
+
+# File sampah sistem Windows dan VS Code
+Thumbs.db
+.vscode/

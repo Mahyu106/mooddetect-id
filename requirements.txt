@@ -1,0 +1,17 @@
+# Pengolahan data
+pandas
+numpy
+
+# Machine learning klasik (SVM, TF-IDF, cross-validation, metrik)
+scikit-learn
+scipy
+
+# Grafik
+matplotlib
+seaborn
+
+# Konversi emoji menjadi kata
+emoji
+
+# Agar notebook Jupyter bisa jalan di VS Code
+ipykernel
