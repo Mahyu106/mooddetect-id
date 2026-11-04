@@ -1,0 +1,8 @@
+pasangan,selisih_rata2,fold_menang,p_t_berpasangan,p_wilcoxon,p_t_terkoreksi
+E3_indobert_lr2e-5  vs  SVM+TF-IDF,0.01977,5/5,0.00336,0.0625,0.01413
+E3_indobert_lr2e-5  vs  BiLSTM+FastText,0.0755,5/5,0.00193,0.0625,0.00849
+SVM+TF-IDF  vs  BiLSTM+FastText,0.05573,5/5,0.00566,0.0625,0.02266
+E3_indobert_lr2e-5  vs  E4a_indobert_lr3e-5,-0.00077,2/5,0.89525,1.0,0.93001
+E3_indobert_lr2e-5  vs  E4b_indobert_lr1e-5,-0.00087,3/5,0.82402,0.8125,0.88192
+E3_indobert_lr2e-5  vs  E5_indobert_classweight,0.00332,4/5,0.382,0.4375,0.54868
+E3_indobert_lr2e-5  vs  E6_indobert_slang,0.00151,3/5,0.62956,0.625,0.74561

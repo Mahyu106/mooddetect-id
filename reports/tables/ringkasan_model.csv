@@ -1,0 +1,8 @@
+model,macro_f1_mean,macro_f1_std,accuracy_mean,accuracy_std,weighted_f1_mean,weighted_f1_std
+E4b_indobert_lr1e-5,0.8558,0.0102,0.8529,0.0097,0.8514,0.0102
+E4a_indobert_lr3e-5,0.8557,0.0162,0.852,0.0151,0.8512,0.0156
+E3_indobert_lr2e-5,0.8549,0.0135,0.8518,0.0134,0.8505,0.0135
+E6_indobert_slang,0.8534,0.0109,0.8502,0.011,0.8492,0.0109
+E5_indobert_classweight,0.8516,0.0132,0.8488,0.0124,0.8472,0.0131
+SVM+TF-IDF,0.8352,0.0173,0.8323,0.0171,0.8309,0.0171
+BiLSTM+FastText,0.7794,0.0217,0.7776,0.0222,0.7764,0.022
