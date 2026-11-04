@@ -16,4 +16,4 @@ __pycache__/
 
 # File sampah sistem Windows dan VS Code
 Thumbs.db
-.vscode/
+.vscode/reports/tables/analisis_kesalahan_dasar.csv
