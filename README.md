@@ -8,3 +8,10 @@ Proyek ini memakai dataset **EmoTweetID** (Version 5), subset anotasi manual (`E
 - Artikel data (Data in Brief): [EmoTweetID: A Dataset of Indonesian Tweets for Emotion Classification and Word Embedding Construction (2026), DOI: 10.1016/j.dib.2026.113119⁠.]
 
 **Perubahan yang dilakukan:** 29 baris berlabel bertentangan (14 teks) dan 14 salinan duplikat berlabel sama dibuang (2.243 menjadi 2.200 sampel), lalu teks dipreproses (emoji menjadi kata, URL dan mention dihapus, dan seterusnya).
+
+## Demo Aplikasi
+
+Aplikasi web (Streamlit Community Cloud): https://ALAMAT-APLIKASIMU.streamlit.app
+
+Model: [Light2626/indobert-mood](https://huggingface.co/Light2626/indobert-mood) di Hugging Face Hub.
+Catatan: aplikasi masuk mode tidur setelah 12 jam tanpa pengunjung; buka alamat di atas dan tunggu beberapa menit sampai aktif.
